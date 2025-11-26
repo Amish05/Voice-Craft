@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "642724724148",
+    "project_id": "finalvoicecraft",
+    "storage_bucket": "finalvoicecraft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642724724148:android:5e87de9904fbd32c0e86e1",
+        "android_client_info": {
+          "package_name": "com.example.voice_craft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqtZR5ZO5-qfvLitzcO22o82QfYkWl0CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
